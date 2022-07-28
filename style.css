@@ -13,9 +13,16 @@ body{
     filter: brightness(50%);
 }  
 
-@media  (min-width: 768px) {
- .slider-image{
-    width: 50%;
-    height: 50%;
+@media  screen and (max-width: 576px) {
+  /* .popular-course{
+    flex-direction: column;
+    width: 100%;
+   
  }
+ .flex-shrink-0{
+    width: 100%;
+ } 
+ .course-image{
+    width:100%;
+} */
 }
