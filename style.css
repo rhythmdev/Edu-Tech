@@ -3,3 +3,19 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+/* .carousel-item>div{
+    height: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}  */
+.slider-image{
+    filter: brightness(50%);
+}  
+
+@media  (min-width: 768px) {
+ .slider-image{
+    width: 50%;
+    height: 50%;
+ }
+}
