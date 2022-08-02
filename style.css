@@ -8,6 +8,7 @@ body{
     filter: brightness(50%);
 }  
 
+
 @media  screen and (max-width: 768px) {
     .slider-image{
         height: 60vh;
@@ -16,6 +17,7 @@ body{
 }
 
 /* animation area */
+
 .fadeInUp {
     -webkit-animation-name: fadeInUp;
     animation-name: fadeInUp;
